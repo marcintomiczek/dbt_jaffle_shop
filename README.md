@@ -1,3 +1,5 @@
+Acknowledgment for original init project: https://github.com/dbt-labs/dbt-learn-gt-init
+
 Welcome to your new dbt project!
 
 ### Using the starter project
